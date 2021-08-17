@@ -14,3 +14,5 @@ TextStyle subText = GoogleFonts.montserrat(
     fontWeight: FontWeight.w400, color: white, fontSize: 16);
 TextStyle descText = GoogleFonts.montserrat(
     fontWeight: FontWeight.w400, color: white, fontSize: 12);
+TextStyle btnText = GoogleFonts.montserrat(
+    fontWeight: FontWeight.w600, color: white, fontSize: 16);
